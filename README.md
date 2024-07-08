@@ -12,8 +12,8 @@
 - Database seeder (products & users)
 
 ## Usage
-Create a MongoDB database and obtain your MongoDB URI 
-Create a PayPal account and obtain your Client ID 
+- Create a MongoDB database and obtain your MongoDB URI 
+- Create a PayPal account and obtain your Client ID 
 
 ## Env Variables
 ```bash
